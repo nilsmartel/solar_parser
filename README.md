@@ -1,3 +1,3 @@
 # Solar Parser
 
-Parser for the solar language
+Goofing around with a custom programming language for fun
