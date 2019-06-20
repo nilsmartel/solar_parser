@@ -5,7 +5,8 @@ enum Expression {
     Sub(Be, Be),
     Mul(Be, Be),
     Div(Be, Be),
-    Exp(Be, Be),
+    Exponent(Be, Be),
+    Absolut(Be)
     // No `not` in Syntax, use - instead, as it looks more like the Logical Negation ¬
     Neg(Be),
     Value(Value),
